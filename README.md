@@ -6,6 +6,12 @@ ERD Link: https://imgur.com/gallery/IRbdmBm
 
 API Link: https://damp-journey-96295.herokuapp.com
 
+Client Deployment Link: https://nickromero-prog.github.io/plantproject-client/
+
+Client Github Repository: https://github.com/nickromero-prog/plantproject-client
+
+API Github Repository: https://github.com/nickromero-prog/plantproject-api
+
 Built an API using mongoDB and mongoose in order for a front end application
 to be able to store basic authentication for users. Also created routes for users
 to be able to create one specific resource (plants). The schema requires three
@@ -31,4 +37,4 @@ Future iterations:
 about the plant.
 
 2) I would like to be able to create another resource but for pots instead of
-plants. 
+plants.
