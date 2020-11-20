@@ -14,7 +14,6 @@ const handle404 = customErrors.handle404
 const requireOwnership = customErrors.requireOwnership
 
 // this is middleware that will remove blank fields from `req.body`, e.g.
-// { plant: { name: '', light: 'medium' } } -> { plant: { text: 'medium' } }
 const removeBlanks = require('../../lib/remove_blank_fields')
 
 // pass as second argument to routes to require
