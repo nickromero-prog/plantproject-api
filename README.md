@@ -31,6 +31,9 @@ unless they were signed in and using their personal account.
 Then I needed to create routes for my user to be able to CRUD a resource or a
 plant in this case using the same http protocols.
 
+I also added routes for my user to be able to CRUD a pot as well using the same
+http protocols. 
+
 Future iterations:
 
 1) I would like for users to be able to submit pictures along with information
